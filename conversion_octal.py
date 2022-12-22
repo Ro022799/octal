@@ -12,6 +12,9 @@ def octal_file():
 				continue
 			lista.append(line)
 		return lista
+def valores():
+	value_letters=[(4,"r"),(2,"w"),(1,"x"), (0,'-')]
+	return value_letters
 def octal_line(lista):
 	usuarios, grupos, otros = [], [], []
 	for line in lista:
@@ -24,8 +27,7 @@ def octal_line(lista):
 		grupos.append(grupo)
 		otros.append(otro)
 	return usuarios, grupos, otros
-def conversion_usuario( usuarios):
-	value_letters = [(4,"r"),(2,"w"),(1,"x"), (0,'-')]
+def conversion_usuario( usuarios, value_letters):
 	cont_user = []
 	for codigo in usuarios:
 		cont = 0
@@ -35,8 +37,7 @@ def conversion_usuario( usuarios):
 					cont += value
 		cont_user.append(cont)
 	return cont_user
-def conversion_grupos(grupos):
-        value_letters = [(4,"r"),(2,"w"),(1,"x"), (0,'-')]
+def conversion_grupos(grupos, value_letters):
         cont_groups = []
         for codigo in grupos:
                 cont = 0
@@ -46,8 +47,7 @@ def conversion_grupos(grupos):
                                         cont += value
                 cont_groups.append(cont)
         return cont_groups
-def conversion_otros(otros):
-        value_letters = [(4,"r"),(2,"w"),(1,"x"), (0,'-')]
+def conversion_otros(otros, value_letters):
         cont_otros = []
         for codigo in grupos:
                 cont = 0
@@ -65,7 +65,8 @@ def numero_octal(cont_user,cont_groups, cont_otros):
 	return lista
 lista = octal_file()
 usuarios, grupos, otros =octal_line(lista)
-group1=conversion_usuario(usuarios)
-group2=conversion_grupos(grupos)
-group3=conversion_otros(otros)
+valor = valores()
+group1=conversion_usuario(usuarios,valor)
+group2=conversion_grupos(grupos,valor)
+group3=conversion_otros(otros,valor)
 print(numero_octal(group1, group2, group3))
