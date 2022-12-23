@@ -1,0 +1,51 @@
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021 '3D Objects'/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  AppData/
+lrwxrwxrwx 1 USUARIO 197121      30 Apr 19  2021 'Configuración local' -> /c/Users/USUARIO/AppData/Local/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  Contacts/
+lrwxrwxrwx 1 USUARIO 197121      60 Apr 19  2021  Cookies -> /c/Users/USUARIO/AppData/Local/Microsoft/Windows/INetCookies/
+lrwxrwxrwx 1 USUARIO 197121      32 Apr 19  2021 'Datos de programa' -> /c/Users/USUARIO/AppData/Roaming/
+drwxr-xr-x 1 USUARIO 197121       0 Mar 19  2022  Documents/
+drwxr-xr-x 1 USUARIO 197121       0 Dec 14 18:04  Downloads/
+drwxr-xr-x 1 USUARIO 197121       0 Dec  2 20:29  Ejercicios_py/
+lrwxrwxrwx 1 USUARIO 197121      68 Apr 19  2021 'Entorno de red' -> '/c/Users/USUARIO/AppData/Roaming/Microsoft/Windows/Network Shortcuts'/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  Favorites/
+lrwxrwxrwx 1 USUARIO 197121      68 Apr 19  2021  Impresoras -> '/c/Users/USUARIO/AppData/Roaming/Microsoft/Windows/Printer Shortcuts'/
+drwxr-xr-x 1 USUARIO 197121       0 Dec 14 19:20  IntelGraphicsProfiles/
+drwxr-xr-x 1 USUARIO 197121       0 Dec  4 15:53  Juegos_py/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  Links/
+lrwxrwxrwx 1 USUARIO 197121      61 Apr 19  2021 'Menú Inicio' -> '/c/Users/USUARIO/AppData/Roaming/Microsoft/Windows/Start Menu'/
+lrwxrwxrwx 1 USUARIO 197121      26 Apr 19  2021 'Mis documentos' -> /c/Users/USUARIO/Documents/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  Music/
+-rw-r--r-- 1 USUARIO 197121 3932160 Oct 20 14:41  NTUSER.DAT
+-rw-r--r-- 1 USUARIO 197121 1048576 Dec 16 14:22  NTUSER.DAT{c2490870-a130-11eb-913f-87ac8fabe192}.TxR.0.regtrans-ms
+-rw-r--r-- 1 USUARIO 197121 1048576 Nov  3 13:38  NTUSER.DAT{c2490870-a130-11eb-913f-87ac8fabe192}.TxR.1.regtrans-ms
+-rw-r--r-- 1 USUARIO 197121 1048576 Nov  3 13:38  NTUSER.DAT{c2490870-a130-11eb-913f-87ac8fabe192}.TxR.2.regtrans-ms
+-rw-r--r-- 1 USUARIO 197121   65536 Dec 16 14:22  NTUSER.DAT{c2490870-a130-11eb-913f-87ac8fabe192}.TxR.blf
+-rw-r--r-- 1 USUARIO 197121   65536 Apr 19  2021  NTUSER.DAT{c2490871-a130-11eb-913f-87ac8fabe192}.TM.blf
+-rw-r--r-- 1 USUARIO 197121  524288 Apr 19  2021  NTUSER.DAT{c2490871-a130-11eb-913f-87ac8fabe192}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 USUARIO 197121  524288 Apr 19  2021  NTUSER.DAT{c2490871-a130-11eb-913f-87ac8fabe192}.TMContainer00000000000000000002.regtrans-ms
+drwxr-xr-x 1 USUARIO 197121       0 May 15  2021  Nox_share/
+drwxr-xr-x 1 USUARIO 197121       0 Dec 14 22:20  OneDrive/
+lrwxrwxrwx 1 USUARIO 197121      60 Apr 19  2021  Plantillas -> /c/Users/USUARIO/AppData/Roaming/Microsoft/Windows/Templates/
+drwxr-xr-x 1 USUARIO 197121       0 Oct 24 20:42  PycharmProjects/
+drwxr-xr-x 1 USUARIO 197121       0 Nov 30 17:45  Qwiklab_files/
+drwxr-xr-x 1 USUARIO 197121       0 Dec  7 10:33  Qwiklabs/
+lrwxrwxrwx 1 USUARIO 197121      57 Apr 19  2021  Reciente -> /c/Users/USUARIO/AppData/Roaming/Microsoft/Windows/Recent/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021 'Saved Games'/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  Searches/
+lrwxrwxrwx 1 USUARIO 197121      57 Apr 19  2021  SendTo -> /c/Users/USUARIO/AppData/Roaming/Microsoft/Windows/SendTo/
+drwxr-xr-x 1 USUARIO 197121       0 Apr 19  2021  Videos/
+-rwxr-xr-x 1 USUARIO 197121     452 Nov 29 19:30  archivos_directorios.py*
+-rwxr-xr-x 1 USUARIO 197121    1560 Dec  2 19:43  clase2.py*
+-rw-r--r-- 1 USUARIO 197121       0 Nov 29 19:15  clase3.py
+-rw-r--r-- 1 USUARIO 197121     299 May 15  2021  d4ac4633ebd6440fa397b84f1bc94a3c.7z
+-rw-r--r-- 1 USUARIO 197121      66 May 15  2021  inittk.ini
+-rw-r--r-- 1 USUARIO 197121      41 May 15  2021  inst.ini
+-rw-r--r-- 1 USUARIO 197121 3067904 Apr 19  2021  ntuser.dat.LOG1
+-rw-r--r-- 1 USUARIO 197121 2441216 Apr 19  2021  ntuser.dat.LOG2
+-rw-r--r-- 1 USUARIO 197121      20 Apr 19  2021  ntuser.ini
+-rw-r--r-- 1 USUARIO 197121      45 May 15  2021  nuuid.ini
+drwxr-xr-x 1 USUARIO 197121       0 Aug 27 11:22  source/
+-rw-r--r-- 1 USUARIO 197121       1 Nov 28 17:56  tech.py
+-rw-r--r-- 1 USUARIO 197121      53 May 15  2021  useruid.ini
+drwxr-xr-x 1 USUARIO 197121       0 May 15  2021  vmlogs/
